@@ -1,5 +1,5 @@
         nav {
-        background-color: #333;
+        background-color: #05034d;
         }
         nav ul {
         list-style-type: none;
@@ -14,14 +14,14 @@
         color: white;
         text-decoration: none;
         padding: 14px 20px;
-        display: block;
+        display: inline-block; 
         }
-        /* Hover effect */
         nav a:hover {
-        background-color: #575757;
+        background-color: transparent;
+        color: #00c3ff;
+        text-decoration: underline;
         }
-        /* Active (current page) link */
         nav a.active {
-        background-color: #04AA6D;  /* a green highlight */
-        font-weight: bold;          /* make it stand out */
+        background-color: #04AA6D;  
+        font-weight: bold;          
         }
