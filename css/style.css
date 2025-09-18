@@ -1,5 +1,17 @@
         nav {
-        background-color: #05034d;
+        position: fixed;
+        background-color: #0b2545;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        
+        }
+
+        body {
+            padding-top: 56px;
+            background-image: url("../images/Backgroundimage.jpg");
+            background-size: cover;
         }
         nav ul {
         list-style-type: none;
@@ -18,10 +30,10 @@
         }
         nav a:hover {
         background-color: transparent;
-        color: #00c3ff;
+        color: #00A8D8;
         text-decoration: underline;
         }
         nav a.active {
-        background-color: #04AA6D;  
+        background-color: #8882b4;  
         font-weight: bold;          
         }
