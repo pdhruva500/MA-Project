@@ -52,6 +52,10 @@
             border-radius: 6px;
             color: #ffffff;
             text-align: center;
+            font-family: "rocky-condensed", serif;
+            font-weight: 500;
+            font-style: italic;
+            
         }
 
         .center {
@@ -72,5 +76,22 @@
             color: #fff;
             
             }
+
+            .font1 {
+            font-family: "amifer", sans-serif;
+            font-weight: 800;
+            font-style: italic;
+            }
+
+            .font2 {
+                font-family: "rocky-condensed", serif;
+                font-weight: 500;
+                font-style: italic;
+            }
         
+            .font3 {
+                font-family: "private-sans", sans-serif;
+                font-weight: 400;
+                font-style: italic;
+            }
         
